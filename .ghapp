@@ -1,0 +1,10 @@
+{
+  "id": 148756431,
+  "created_at": "2026-07-24T15:23:53.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["JohnKirwan.r-universe.dev", "radiatR", "luxR"]
+}
